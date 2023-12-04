@@ -1,0 +1,12 @@
+{
+
+    "Teste": {
+        "idproduto": "Teste",
+        "nome": "Sem nome ainda...",
+        "desc": "Sem descrição ainda...",
+        "preco": "10",
+        "conta": [
+            "123:123"
+        ]
+    }
+}

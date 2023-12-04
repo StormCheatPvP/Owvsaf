@@ -1,0 +1,60 @@
+{
+    "pedidostotal": 26,
+    "gastostotal": 228.51,
+    "06/02/2023": {
+        "pedidos": 1,
+        "recebimentos": 1
+    },
+    "889600624172355624": {
+        "gastosaprovados": 173.5,
+        "pedidosaprovados": 21
+    },
+    "11/02/2023": {
+        "pedidos": 2,
+        "recebimentos": 2
+    },
+    "12/02/2023": {
+        "pedidos": 1,
+        "recebimentos": 0.5
+    },
+    "16/02/2023": {
+        "pedidos": 3,
+        "recebimentos": 30
+    },
+    "17/02/2023": {
+        "pedidos": 2,
+        "recebimentos": 20
+    },
+    "18/02/2023": {
+        "pedidos": 2,
+        "recebimentos": 20
+    },
+    "20/02/2023": {
+        "pedidos": 4,
+        "recebimentos": 40
+    },
+    "21/02/2023": {
+        "pedidos": 8,
+        "recebimentos": 100
+    },
+    "834913834036232253": {
+        "gastosaprovados": 40,
+        "pedidosaprovados": 2
+    },
+    "24/02/2023": {
+        "pedidos": 2,
+        "recebimentos": 15
+    },
+    "1009577884786098247": {
+        "gastosaprovados": 15,
+        "pedidosaprovados": 2
+    },
+    "28/02/2023": {
+        "pedidos": 1,
+        "recebimentos": 0.01
+    },
+    "1067430744743477298": {
+        "gastosaprovados": 0.01,
+        "pedidosaprovados": 1
+    }
+}
